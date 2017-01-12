@@ -43,7 +43,7 @@ console.log(myName + "drives a " +ageOfCar+brand+typeOfSubaru + "and he loves it
 //Gold
 var myAge = 21
 if (myAge>=18){
-	console.log("You are an adult")
+	console.log("You are an adult.")
 } else {
-	console.log("You a minor")
+	console.log("You a minor.")
 }
