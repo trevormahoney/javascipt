@@ -1,24 +1,24 @@
-//var tired = false;
-//var hungry = true;
-//// = assigns information into a variable
-//// == evaluates values (returns true or false)
-//// === evaluates values and type of variable
-//var isTrue  = 1 == "1"; //this is true
-//console.log(isTrue)
-//var isTrue = 1 === "1"; // === also evaluates type
-//console.log(isTrue)
-//var numThree = 3
-//var strThree = "3"
-//var checkTrue = numThree == strThree
-//console.log(typeof numThree)
-//console.log(typeof strThree)
-//console.log(checkTrue)
-//var num1 = 35
-//var num2 = 34
-////! is the band symbol
-//console.log( num1 != num2)
-//var foo = true
-//console.log(!foo)
+var tired = false;
+var hungry = true;
+// = assigns information into a variable
+// == evaluates values (returns true or false)
+// === evaluates values and type of variable
+var isTrue  = 1 == "1"; //this is true
+console.log(isTrue)
+var isTrue = 1 === "1"; // === also evaluates type
+console.log(isTrue)
+var numThree = 3
+var strThree = "3"
+var checkTrue = numThree == strThree
+console.log(typeof numThree)
+console.log(typeof strThree)
+console.log(checkTrue)
+var num1 = 35
+var num2 = 34
+//! is the band symbol
+console.log( num1 != num2)
+var foo = true
+console.log(!foo)
 //--------------------------------------------------------
 //--------------------------------------------------------
 // ------ Challenge: Boolean Logic  ----------

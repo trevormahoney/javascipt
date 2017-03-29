@@ -1,17 +1,17 @@
-//var firstname="Trevor Mahoney";
-//var message = firstname + ": " + 21;
-//var num = 21;
-//console.log(typeof message);
-//console.log(typeof num);
-////quotes?
-//var greetings = 'Trevor says "How\'s your day?"';
-//console.log(typeof greetings);
-////string methods
-//console.log(greetings.length);
-//console.log(greetings.toUpperCase());//extra parenthesis are nessicary
-//console.log(greetings.toLowerCase());
-//console.log(greetings.split(" "));
-//console.log(greetings.slice(1))
+var firstname="Trevor Mahoney";
+var message = firstname + ": " + 21;
+var num = 21;
+console.log(typeof message);
+console.log(typeof num);
+//quotes?
+var greetings = 'Trevor says "How\'s your day?"';
+console.log(typeof greetings);
+//string methods
+console.log(greetings.length);
+console.log(greetings.toUpperCase());//extra parenthesis are nessicary
+console.log(greetings.toLowerCase());
+console.log(greetings.split(" "));
+console.log(greetings.slice(1))
 //--------------------------------------------------------
 //--------------------------------------------------------
 // --------------  Challenge: Strings-------------
